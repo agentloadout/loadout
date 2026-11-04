@@ -1,0 +1,16 @@
+{
+  "name": "loadout",
+  "description": "The Loadout plugin for Claude Code.",
+  "owner": {
+    "name": "Loadout",
+    "email": "info@agentloadout.com"
+  },
+  "plugins": [
+    {
+      "name": "loadout",
+      "source": "./plugins/loadout",
+      "description": "Live business data and tested methods for running and growing a business: finding clients, pricing, proposals, websites, domains, email setup, reviews and local search. The methods load from Loadout after you sign in.",
+      "category": "business"
+    }
+  ]
+}

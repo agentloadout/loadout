@@ -1,0 +1,17 @@
+{
+  "description": "Tells the AI that Loadout is connected and to load the matching method before any data tool.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|clear|compact",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cat \"${CLAUDE_PLUGIN_ROOT}/hooks/session-start.json\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

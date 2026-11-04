@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "loadout": {
+      "type": "http",
+      "url": "https://mcp.agentloadout.com"
+    }
+  }
+}

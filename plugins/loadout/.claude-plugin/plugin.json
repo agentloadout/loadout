@@ -1,0 +1,23 @@
+{
+  "name": "loadout",
+  "displayName": "Loadout",
+  "version": "0.1.0-5e5e9ead8f47",
+  "description": "Live business data and tested methods for running and growing a business: finding clients, pricing, proposals, websites, domains, email setup, reviews and local search. The methods load from Loadout after you sign in.",
+  "author": {
+    "name": "Loadout",
+    "email": "info@agentloadout.com",
+    "url": "https://agentloadout.com"
+  },
+  "homepage": "https://agentloadout.com",
+  "repository": "https://github.com/agentloadout/loadout",
+  "privacyPolicyUrl": "https://app.agentloadout.com/privacy",
+  "termsOfServiceUrl": "https://app.agentloadout.com/terms",
+  "keywords": [
+    "business",
+    "small business",
+    "clients",
+    "marketing",
+    "local search",
+    "mcp"
+  ]
+}
